@@ -64,7 +64,7 @@ This is a series of 3 screens. The user or their aide selects options on each sc
 
 The three screens are in sequence as follows:
 1. An anatomy diagram where the patient can touch or indicate the area that they want to communicate about and mark the diagram with an 'X'. Next to the diagram, there is a radio button style survey so the user can select the type of issue they are having.
-![Anatomy](https://github.com/pickwickian/orange-banana/blob/master/Anatomy.png)
+![Anatomy](https://github.com/pickwickian/orange-banana/blob/master/AnatomyDiagram.png)
 2. There are survey sections on this screen for duration and a validated pain scale.
 3. This screen has a list of associated symptom descriptors and the user can select the words that describe their current complaint.
 
