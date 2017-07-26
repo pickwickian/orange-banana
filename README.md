@@ -16,7 +16,7 @@ This screen displays all sub-action items the application offers. Each sub-actio
 - Medical: This is a series of survey type screens that then summarizes the selected options into a concise 1 page medical complaint and detail list for acute medical issues.
 
 ## 1. Converse
-![Converse](https://github/pickwickian/orange-banana/Converse.png)
+![Converse](orange-banana/Converse.png)
 There are three options in the converse section to add a word or concept to the message:
 1. People: This option accesses the People sub-action menu and allows the user to select a person-icon block. The selected icon block is placed in the next open/available block space (denoted in the drawing with the underscore height lines).
 1. Dictionary: This option accesses the Dictionary sub-action menu and allows the user to select a word. The word is then placed in the next open block space.
