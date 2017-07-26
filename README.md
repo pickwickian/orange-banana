@@ -79,3 +79,6 @@ When the facility words sub-section is selected, the app opens a screen that is 
 ### Health History
 ![Health History](https://github.com/pickwickian/orange-banana/blob/master/History.png)
 This screen is filled in by the user or the aide using a free type box or interacting with the survey options.
+
+## Getting Started
+Currently, this application is being built open source for use with Android tablets. Towards this end, we recommend you download Android Studio and Git.
